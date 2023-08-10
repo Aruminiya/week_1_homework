@@ -1,0 +1,47 @@
+th,
+tr,
+td {
+  border-bottom: solid 1px;
+  border-collapse: collapse;
+  padding: 1rem;
+}
+
+th {
+  font-size: 25px;
+}
+
+table {
+  border: solid 1px;
+  border-radius: 3%;
+  padding: 1rem;
+  padding-bottom: 2rem;
+}
+
+.num {
+  width: 30px;
+  height: 30px;
+  border-radius: 10%;
+}
+
+.edit {
+  padding: 0.3rem;
+  border-radius: 10%;
+}
+
+button {
+  margin: 0.5rem;
+  border: solid 0.5px;
+  background-color: white;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: #428fce;
+  color: white;
+}
+
+input {
+  padding: 5px;
+  height: 1.5rem;
+}
